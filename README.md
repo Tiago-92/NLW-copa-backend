@@ -4,6 +4,7 @@ Tecnologias utilizadas:
 
 - Node
 - Prisma
+- Fastify (para as rotas)
 - TypeScript
 
 
